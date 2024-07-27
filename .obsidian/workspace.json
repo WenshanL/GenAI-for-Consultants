@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "edbbed99ee908cd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ced066cf4578b3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b70ce0d2b84c4d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f2c4d5d24552a582",
+    "type": "split",
+    "children": [
+      {
+        "id": "6de8dff6fba28e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f98334c0dbc0c014",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f8570c0161fdae2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e2b0eae6efa068d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b1c342fee51c646e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1fb81bfbfa9a53b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32aeaa41acff9c88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "937b683228bf15c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d65dfa42ee45e0d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81e46572ced75f15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "3ea9ceffb0d99313",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b70ce0d2b84c4d19",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "README.md",
+    "LICENSE",
+    "GenAI-for-Consultants/README.md",
+    "GenAI-for-Consultants/LICENSE",
+    "GenAI-for-Consultants"
+  ]
+}
